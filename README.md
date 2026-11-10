@@ -7,10 +7,10 @@ Academic project in collaboration with **ESPRIT** and **Laboratoires Vital**. VI
 ## Screenshots
 
 ### Landing page — Meet VITA, your AI trainer
-![Landing page](docs/images/landing-page.jpg)
+![Landing page](doc/images/landing-page.jpg)
 
 ### Training interface — talk with the 3D avatar
-![Training interface](docs/images/training-interface.jpg)
+![Training interface](doc/images/training-interface.jpg)
 
 ## Features
 - **RAG-based conversational AI** that answers pharmaceutical questions with contextual accuracy
